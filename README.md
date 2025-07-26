@@ -1,7 +1,7 @@
 # PBI-Finance
 Interactive dashboard with public financial data. 
 
-# 📊 Stories of Data: Power BI + Python Dashboard Project
+# 📊 Power BI Finance / Equity Tracker
 
 This is a data storytelling dashboard built in Power BI and powered by a Python-based data pipeline. It simulates an investor-facing portfolio report with clean visuals, dynamic filters, and narrative structure. Python was used to generate and update the dataset via automated scripts.
 
