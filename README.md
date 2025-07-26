@@ -41,9 +41,7 @@ stories-of-data/
 |------|-------------|
 | ![Overview](Overview.png) | **Executive Overview** – KPIs, total portfolio stats |
 | ![Investor Snapshot](edita_snap.png) | **Sector View** – General Sectors - Equities |
-| ![Geographic Map](images/page3_geo_map.png) | **Geography** – Portfolio diversification by location |
-| ![Story Narrative](images/page4_story_narrative.png) | **Data Story** – Slide-style narrative in the report |
-| ![Conclusions](images/page5_conclusions.png) | **Conclusions & CTA** – Summary recommendations |
+| ![Portfolio Tracking](Port_watchlist.png) | **Personal Portfolio** – Slide-style tracker in the report |
 
 ---
 
@@ -51,7 +49,6 @@ stories-of-data/
 
 The dataset was generated and refreshed using:
 
-- `daily_stock.py`: Pulls latest stock data and formats for CSV
 - `metrics_new.py`: Adds calculated KPIs (e.g., volatility, growth)
 - `daily_stock_new.py`: Pipeline for batch processing multiple tickers
 - Output is saved to `daily_stock_data_top_100.csv` and fed into Power BI
@@ -75,8 +72,3 @@ The dataset was generated and refreshed using:
 - Sample data used for demonstration only
 - PBIX file can be adapted for any stock or KPI-based portfolio
 
----
-
-## 🤝 Let’s Connect
-
-If you’re hiring or collaborating on BI storytelling, I’d love to chat!
