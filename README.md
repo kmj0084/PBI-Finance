@@ -40,7 +40,7 @@ stories-of-data/
 | Page | Description |
 |------|-------------|
 | ![Overview](Overview.png) | **Executive Overview** – KPIs, total portfolio stats |
-| ![Investor Snapshot](images/page2_investor_snapshot.png) | **Investor View** – Net gains, buy/sell trends |
+| ![Investor Snapshot](edita_snap.png) | **Sector View** – General Sectors - Equities |
 | ![Geographic Map](images/page3_geo_map.png) | **Geography** – Portfolio diversification by location |
 | ![Story Narrative](images/page4_story_narrative.png) | **Data Story** – Slide-style narrative in the report |
 | ![Conclusions](images/page5_conclusions.png) | **Conclusions & CTA** – Summary recommendations |
